@@ -1,0 +1,19 @@
+# Bobyard Documentation
+
+## Docs
+
+- [Introduction](https://docs.bobyard.com/get-started/introduction.md): Welcome to Bobyard's documentation!
+- [Support](https://docs.bobyard.com/get-started/support.md): We are here to help you with any questions you may have.
+- [Guide 4: AI Takeoff](https://docs.bobyard.com/guides/ai-takeoff.md): 2 minutes
+- [Guide 5: Correcting AI Output](https://docs.bobyard.com/guides/correcting-ai-output.md): 3 minutes
+- [Guide 6: Estimate](https://docs.bobyard.com/guides/estimate.md): 1 minute
+- [Guide 2: Manual Takeoff](https://docs.bobyard.com/guides/manual-takeoff.md): 2 minutes
+- [Guide 3: OC Conversions](https://docs.bobyard.com/guides/oc-conversions.md): 2 minutes
+- [Guide 1: Project Files](https://docs.bobyard.com/guides/project-files.md): 1 minute
+- [Advanced functionality](https://docs.bobyard.com/specs/advanced-functionality.md)
+- [AI Takeoff](https://docs.bobyard.com/specs/ai-takeoff.md)
+- [Company team management](https://docs.bobyard.com/specs/company-team-management.md)
+- [Database](https://docs.bobyard.com/specs/database.md)
+- [Estimate](https://docs.bobyard.com/specs/estimate.md)
+- [Files](https://docs.bobyard.com/specs/files.md)
+- [Manual Takeoff ](https://docs.bobyard.com/specs/manual-takeoff.md)

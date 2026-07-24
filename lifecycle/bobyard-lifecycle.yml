@@ -1,0 +1,19 @@
+generated: '2026-07-18'
+method: searched
+source: https://status.bobyard.com
+status_page: https://status.bobyard.com
+status_platform: Better Stack
+monitored_components:
+- name: Bobyard Front Door
+  state: operational
+- name: Inference API
+  state: operational
+versioning: null
+deprecation: null
+sla: null
+deprecated_operations: []
+notes: >-
+  Bobyard publishes a live Better Stack status page monitoring two components
+  (Bobyard Front Door and an Inference API). No public versioning policy,
+  deprecation policy, or SLA document was found. Bobyard exposes no public
+  developer API or OpenAPI, so no deprecated operations could be derived.
